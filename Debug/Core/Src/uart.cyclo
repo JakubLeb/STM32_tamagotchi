@@ -1,0 +1,5 @@
+../Core/Src/uart.c:25:9:USART_kbhit	2
+../Core/Src/uart.c:34:9:USART_getline	5
+../Core/Src/uart.c:62:9:USART_getchar	3
+../Core/Src/uart.c:74:6:USART_send_frame	6
+../Core/Src/uart.c:114:6:USART_send_response	7

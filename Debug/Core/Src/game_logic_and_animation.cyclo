@@ -1,0 +1,11 @@
+../Core/Src/game_logic_and_animation.c:79:6:check_collision	5
+../Core/Src/game_logic_and_animation.c:88:5:calculateYCoordinate	3
+../Core/Src/game_logic_and_animation.c:98:6:Button_Functionality	10
+../Core/Src/game_logic_and_animation.c:132:6:Atribute_Update	4
+../Core/Src/game_logic_and_animation.c:164:6:Update_menu1	5
+../Core/Src/game_logic_and_animation.c:209:6:Start_menu1	1
+../Core/Src/game_logic_and_animation.c:240:6:Start_menu2	1
+../Core/Src/game_logic_and_animation.c:292:6:Update_menu2	22
+../Core/Src/game_logic_and_animation.c:441:6:Start_menu3	1
+../Core/Src/game_logic_and_animation.c:464:6:Update_menu3	23
+../Core/Src/game_logic_and_animation.c:626:6:Menu_change_and_update	12
