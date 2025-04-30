@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/user-attachments/assets/6de2ebac-a827-41ec-adac-e05586c6a51b" alt="logo" width="200">
   <br>
-  STM32_Tamagotchi
+  STM32 Tamagotchi
   <br>
 </h1>
 
