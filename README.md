@@ -11,7 +11,6 @@
 <p align="center">
   <a href="#-communication-protocol">Communication Protocol</a> •
   <a href="#-specification">Specification</a> •
-  <a href="#%EF%B8%8F-specification">How To Set Up</a> •
   <a href="#-how-to-use">How To Use</a>
 </p>
 
@@ -97,9 +96,13 @@
 {STMPC0011ACCEPTADDAT8FBB}
 ```
 
----
+## 🛠 How To Set Up
 
-## ⚙️ Specification
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5985cfd4-7a68-48b9-af54-37629f853e36" alt="project setup">
+</p>
+
+### ⚙️ Specification
 
 - `1x` NUCLEO-F411RE (STM32)
 - `1x` SSD1309 OLED 128×64 2.42"
@@ -108,14 +111,6 @@
 - `4x` 1.2kΩ Resistors
 - `4x` Male-Male Wires
 - `15x` Male-Female Wires
-
----
-
-## 🛠 How To Set Up
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5985cfd4-7a68-48b9-af54-37629f853e36" alt="project setup">
-</p>
 
 ### 🔆 BH1750 Light Sensor
 
