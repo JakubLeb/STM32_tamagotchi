@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#-communication-protocol">Communication Protocol</a> •
   <a href="#-specification">Specification</a> •
-  <a href="#-how-to-set-up">How To Set Up</a> •
+  <a href="#%EF%B8%8F-specification">How To Set Up</a> •
   <a href="#-how-to-use">How To Use</a>
 </p>
 
