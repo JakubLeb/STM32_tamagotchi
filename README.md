@@ -9,10 +9,10 @@
 <h4 align="center">A virtual pet game implemented on the STM32F411RE using peripherals like OLED (SSD1309), BH1750 light sensor, and momentary push buttons.</h4>
 
 <p align="center">
-  <a href="##Communication Protocol">Communication Protocol</a> •
-  <a href="##Specification">Specification</a> •
-  <a href="##How To Set Up">How To Set Up</a> •
-  <a href="##How To Use">How To Use</a>
+  <a href="#-communication-protocol">Communication Protocol</a> •
+  <a href="#%EF%B8%8F-specificationn">Specification</a> •
+  <a href="#-how-to-set-up">How To Set Up</a> •
+  <a href="#-how-to-use">How To Use</a>
 </p>
 
 <p align="center">
