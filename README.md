@@ -120,7 +120,7 @@
 | 3Vo        | 3.3V Output               | Not connected       |
 | GND        | Ground                    | GND                 |
 | SCL        | I²C Clock Line            | PB8                 |
-| SDA        | I²C Data Line             | PB9                 |
+| SDA        | I²C Data Line             | Not connected       |
 | ADDR       | I²C Address               | GND                 |
 
 ### 🖥 SSD1309 OLED Display (SPI)
